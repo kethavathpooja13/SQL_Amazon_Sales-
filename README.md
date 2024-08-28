@@ -1,4 +1,5 @@
 # Python_Amazon_Sales_Analysis
+![743676_1604295366_AMAZON (1)](https://github.com/user-attachments/assets/08fe2c4e-67ed-4d34-ab46-69be6f32c514)
 
 Python project for beginners- Analyze Amazon sales data to check the buyers preferred choice in the sales
 This project is a beginner-friendly Python analysis to examine Amazon sales data and determine buyers' preferences. The primary goal is to gain insights into which products are preferred by customers, trends over time, and other key metrics.
